@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'GoodSans-Light', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* local font import */
+@font-face {
+	src: url('GoodSans-Light.woff');
+	font-family: 'GoodSans-Light';
+}

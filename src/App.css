@@ -1,0 +1,17 @@
+/*
+Very minimal CSS needed as the project is mainly styled using bootstrap
+*/
+
+body {
+  background-color: #efefef;
+  font-family: 'GoodSans-Light', sans-serif;
+  line-height: 1;
+}
+
+#home-container {
+  margin: 12rem 0;
+}
+
+#taskboard {
+  padding-bottom: 100px;
+}
